@@ -4,4 +4,4 @@ For FilthyFrank Video game lovers.
  # flappybirds by Jordon Holmes
   HTML5 and JavaScript Flappy Birds clone using the Phaser.io game engine. 
  +
- +view game [here](https://lenusltd.github.io/FlappyBirdsV2/)
+ +view game [here](https://lenusltd.github.io/FlappyBirdsV3/)
